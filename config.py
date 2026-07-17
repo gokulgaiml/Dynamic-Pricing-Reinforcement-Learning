@@ -1,0 +1,19 @@
+PROJECT_NAME = "Dynamic Pricing using Reinforcement Learning"
+
+DATASET_NAME = "hotel_bookings.csv"
+
+RANDOM_STATE = 42
+
+INITIAL_INVENTORY = 50
+
+MIN_PRICE = 100
+
+MAX_PRICE = 500
+
+TOTAL_EPISODES = 500
+
+LEARNING_RATE = 0.1
+
+DISCOUNT_FACTOR = 0.95
+
+EPSILON = 1.0

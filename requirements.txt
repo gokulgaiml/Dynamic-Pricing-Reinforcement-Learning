@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+plotly
+streamlit
+gymnasium
+torch
+scikit-learn
+joblib
+tqdm
+openpyxl
