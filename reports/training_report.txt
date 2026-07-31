@@ -1,0 +1,8 @@
+Dynamic Pricing using Reinforcement Learning
+==================================================
+
+Episodes          : 10
+Total Reward      : 1635.00
+Average Reward    : 163.50
+Maximum Reward    : 210.00
+Minimum Reward    : 120.00
