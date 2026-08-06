@@ -11,4 +11,7 @@ class RewardPlot:
         plt.xlabel("Episode")
         plt.ylabel("Reward")
         plt.grid(True)
+
         plt.show()
+
+        plt.close()
