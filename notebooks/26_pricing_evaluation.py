@@ -21,8 +21,7 @@ agent = joblib.load(MODEL_PATH)
 print("Model Loaded Successfully")
 
 
-# Get Q-table from trained agent object
-q_table = agent.q_table
+q_table = agent["q_table"]
 
 print("\nQ-Table Shape:")
 print(q_table.shape)
