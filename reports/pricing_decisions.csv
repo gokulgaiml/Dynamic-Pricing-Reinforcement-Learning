@@ -1,0 +1,11 @@
+state,action,decision
+0,1,Keep Price
+1,2,Increase Price
+2,2,Increase Price
+3,1,Keep Price
+4,1,Keep Price
+5,1,Keep Price
+6,1,Keep Price
+7,1,Keep Price
+8,0,Decrease Price
+9,1,Keep Price
